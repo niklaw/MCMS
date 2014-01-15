@@ -1,5 +1,5 @@
 //
-//  Creature.m
+//  MagicalCreature.m
 //  MCMS
 //
 //  Created by Yash Varma on 1/14/14.

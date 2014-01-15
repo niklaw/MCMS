@@ -1,5 +1,5 @@
 //
-//  Creature.h
+//  MagicalCreature.h
 //  MCMS
 //
 //  Created by Yash Varma on 1/14/14.
@@ -12,5 +12,6 @@
 
 @property NSString*name;
 @property NSString*description;
+@property UIImage*image;
 
 @end

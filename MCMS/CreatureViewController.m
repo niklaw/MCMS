@@ -13,7 +13,9 @@
 
     __weak IBOutlet UILabel *name;
     __weak IBOutlet UITextField *nameTextField;
+    __weak IBOutlet UILabel *description;
     
+    __weak IBOutlet UIImageView *image;
 }
 
 @end
@@ -29,6 +31,8 @@
     [super viewDidLoad];
     
     name.text = creature.name;
+    description.text = creature.description;
+    image.image = creature.image;
 	// Do any additional setup after loading the view.
 }
 

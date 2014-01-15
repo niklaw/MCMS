@@ -24,6 +24,19 @@
 		A6D27B751885D7BB0018824D /* MagicalCreature.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D27B741885D7BB0018824D /* MagicalCreature.m */; };
 		A6D27B781885E25F0018824D /* CreatureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D27B771885E25F0018824D /* CreatureViewController.m */; };
 		A6D27B7C188614AB0018824D /* CheckMate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6D27B7B188614AB0018824D /* CheckMate.framework */; };
+		A6D27B7F188630770018824D /* Dhalsim.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B7E188630770018824D /* Dhalsim.jpg */; };
+		A6D27B81188631880018824D /* Blanka.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B80188631880018824D /* Blanka.jpg */; };
+		A6D27B83188631C20018824D /* M.Bison.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B82188631C20018824D /* M.Bison.jpg */; };
+		A6D27B851886329C0018824D /* Guile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B841886329C0018824D /* Guile.jpg */; };
+		A6D27B8D1886349D0018824D /* Akuma.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B861886349D0018824D /* Akuma.jpg */; };
+		A6D27B8E1886349D0018824D /* Cammy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B871886349D0018824D /* Cammy.jpg */; };
+		A6D27B8F1886349D0018824D /* Chun Li.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B881886349D0018824D /* Chun Li.png */; };
+		A6D27B901886349D0018824D /* Ken.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B891886349D0018824D /* Ken.jpg */; };
+		A6D27B911886349D0018824D /* Maki.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B8A1886349D0018824D /* Maki.png */; };
+		A6D27B921886349D0018824D /* Ryu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B8B1886349D0018824D /* Ryu.jpg */; };
+		A6D27B931886349D0018824D /* Vega.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B8C1886349D0018824D /* Vega.jpg */; };
+		A6D27B96188634C00018824D /* Sagat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B94188634C00018824D /* Sagat.jpg */; };
+		A6D27B97188634C00018824D /* Sakura.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D27B95188634C00018824D /* Sakura.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +74,19 @@
 		A6D27B761885E25F0018824D /* CreatureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreatureViewController.h; sourceTree = "<group>"; };
 		A6D27B771885E25F0018824D /* CreatureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreatureViewController.m; sourceTree = "<group>"; };
 		A6D27B7B188614AB0018824D /* CheckMate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CheckMate.framework; path = ../../../Downloads/CheckMate.framework; sourceTree = "<group>"; };
+		A6D27B7E188630770018824D /* Dhalsim.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dhalsim.jpg; sourceTree = "<group>"; };
+		A6D27B80188631880018824D /* Blanka.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Blanka.jpg; sourceTree = "<group>"; };
+		A6D27B82188631C20018824D /* M.Bison.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = M.Bison.jpg; sourceTree = "<group>"; };
+		A6D27B841886329C0018824D /* Guile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Guile.jpg; sourceTree = "<group>"; };
+		A6D27B861886349D0018824D /* Akuma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Akuma.jpg; sourceTree = "<group>"; };
+		A6D27B871886349D0018824D /* Cammy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cammy.jpg; sourceTree = "<group>"; };
+		A6D27B881886349D0018824D /* Chun Li.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Chun Li.png"; sourceTree = "<group>"; };
+		A6D27B891886349D0018824D /* Ken.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ken.jpg; sourceTree = "<group>"; };
+		A6D27B8A1886349D0018824D /* Maki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Maki.png; sourceTree = "<group>"; };
+		A6D27B8B1886349D0018824D /* Ryu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ryu.jpg; sourceTree = "<group>"; };
+		A6D27B8C1886349D0018824D /* Vega.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Vega.jpg; sourceTree = "<group>"; };
+		A6D27B94188634C00018824D /* Sagat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sagat.jpg; sourceTree = "<group>"; };
+		A6D27B95188634C00018824D /* Sakura.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sakura.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +158,7 @@
 				A6D27B731885D7BB0018824D /* MagicalCreature.h */,
 				A6D27B741885D7BB0018824D /* MagicalCreature.m */,
 				A6D27B561885D4D90018824D /* Images.xcassets */,
+				A6D27B7D1886303B0018824D /* Images */,
 				A6D27B451885D4D90018824D /* Supporting Files */,
 			);
 			path = MCMS;
@@ -164,6 +191,26 @@
 				A6D27B661885D4D90018824D /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A6D27B7D1886303B0018824D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				A6D27B861886349D0018824D /* Akuma.jpg */,
+				A6D27B871886349D0018824D /* Cammy.jpg */,
+				A6D27B881886349D0018824D /* Chun Li.png */,
+				A6D27B891886349D0018824D /* Ken.jpg */,
+				A6D27B8A1886349D0018824D /* Maki.png */,
+				A6D27B8B1886349D0018824D /* Ryu.jpg */,
+				A6D27B94188634C00018824D /* Sagat.jpg */,
+				A6D27B95188634C00018824D /* Sakura.jpg */,
+				A6D27B8C1886349D0018824D /* Vega.jpg */,
+				A6D27B841886329C0018824D /* Guile.jpg */,
+				A6D27B82188631C20018824D /* M.Bison.jpg */,
+				A6D27B80188631880018824D /* Blanka.jpg */,
+				A6D27B7E188630770018824D /* Dhalsim.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,9 +289,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6D27B97188634C00018824D /* Sakura.jpg in Resources */,
+				A6D27B96188634C00018824D /* Sagat.jpg in Resources */,
+				A6D27B83188631C20018824D /* M.Bison.jpg in Resources */,
+				A6D27B901886349D0018824D /* Ken.jpg in Resources */,
+				A6D27B7F188630770018824D /* Dhalsim.jpg in Resources */,
 				A6D27B571885D4D90018824D /* Images.xcassets in Resources */,
+				A6D27B931886349D0018824D /* Vega.jpg in Resources */,
+				A6D27B921886349D0018824D /* Ryu.jpg in Resources */,
+				A6D27B8F1886349D0018824D /* Chun Li.png in Resources */,
 				A6D27B491885D4D90018824D /* InfoPlist.strings in Resources */,
+				A6D27B81188631880018824D /* Blanka.jpg in Resources */,
+				A6D27B8E1886349D0018824D /* Cammy.jpg in Resources */,
 				A6D27B521885D4D90018824D /* Main.storyboard in Resources */,
+				A6D27B911886349D0018824D /* Maki.png in Resources */,
+				A6D27B851886329C0018824D /* Guile.jpg in Resources */,
+				A6D27B8D1886349D0018824D /* Akuma.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
