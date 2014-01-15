@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CreatureViewController.h
 //  MCMS
 //
 //  Created by Yash Varma on 1/14/14.
@@ -9,9 +9,9 @@
 #import <UIKit/UIKit.h>
 #import "MagicalCreature.h"
 
-@interface ViewController : UIViewController
+@interface CreatureViewController : UIViewController
 
-//@property MagicalCreature *creature;
 
+@property MagicalCreature *creature;
 
 @end
